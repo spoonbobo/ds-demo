@@ -25,4 +25,15 @@ sudo docker run --gpus all -it --network=host -v $(pwd)/ds-demo:/opt/nvidia/deep
 ```
 
 ### Usage
-Enter DeepStream container and run the demos
+After entering container, install jupyter notebook
+```
+pip install jupyter notebook
+```
+
+Host jupyter server and follow the notebook to run your selected demo
+```
+jupyter notebook --allow-root --ip=0.0.0.0
+```
+
+### Technical Support
+Contact NVIDIA HK Team for support
