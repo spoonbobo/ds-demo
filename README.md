@@ -16,7 +16,6 @@ docker pull nvcr.io/nvidia/deepstream:5.1-21.02-triton
 Create DeepStream
 
 ### Usage
-
-
+Enter DeepStream container and run the following demos
 ### 1. Peoplenet demo
 
