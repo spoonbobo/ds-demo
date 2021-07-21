@@ -25,6 +25,4 @@ sudo docker run --gpus all -it --network=host -v $(pwd)/ds-demo:/opt/nvidia/deep
 ```
 
 ### Usage
-Enter DeepStream container and run the following demos
-### 1. Peoplenet demo
-
+Enter DeepStream container and run the demos
