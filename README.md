@@ -1,5 +1,4 @@
 ## Deepstream Demos
 
-### Usage
-<br>
-fff
+### Peoplenet demo
+#### Usage
