@@ -4,7 +4,7 @@
 
 Pull DeepStream-demo image
 ```
-docker pull spoonnvidia/ds-demo:peoplenet-v1
+
 ```
 
 Create DeepStream-demo Container
