@@ -1,6 +1,12 @@
 ## Deepstream Demos
 
 ### Prerequisites
+
+You can use pre-built container for this demo or NGC container
+
+#### Pre-built container
+
+#### NGC Container
 Register NGC API Key at https://ngc.nvidia.com/
 
 Log in nvcr.io using API Key
