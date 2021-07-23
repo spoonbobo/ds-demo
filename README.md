@@ -17,6 +17,7 @@ docker run --gpus all -it --rm --network=host -v /tmp/.X11-unix:/tmp/.X11-unix -
 ### Usage
 After entering container, host jupyter server and follow the notebook to run your selected demo
 ```
+cd ds-demo/notebook
 jupyter notebook --allow-root --ip=0.0.0.0
 ```
 
