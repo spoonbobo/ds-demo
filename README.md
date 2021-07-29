@@ -4,14 +4,14 @@
 
 Pull DeepStream-demo image
 ```
-docker pull spoonnvidia/ds-demo:peoplenet-v2
+docker pull spoonnvidia/ds-demo:peoplenet-v3
 ```
 
 Create DeepStream-demo Container
 ```
 xhost +
 docker run --gpus all -it --rm --network=host -v /tmp/.X11-unix:/tmp/.X11-unix -e DISPLAY=:0 \
-   -w /opt/nvidia/deepstream/deepstream-5.1 spoonnvidia/ds-demo:peoplenet-v2
+   -w /opt/nvidia/deepstream/deepstream-5.1 spoonnvidia/ds-demo:peoplenet-v3
 ```
 
 ### Usage
